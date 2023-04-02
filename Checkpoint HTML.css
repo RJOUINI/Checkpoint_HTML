@@ -1,0 +1,25 @@
+/*header style*/
+* {
+  background-color: white;
+}
+li {
+  list-style: none;
+}
+/*main style*/
+main {
+  border-style: hidden;
+  border-color: black;
+  border-radius: inherit;
+}
+.main_img_about {
+  width: 50%;
+  height: 50%;
+}
+.main_img_work {
+  width: 50%;
+  height: fit-content;
+}
+.main_img_resume {
+  width: 30%;
+  height: 30%;
+}
